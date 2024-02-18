@@ -1,0 +1,4 @@
+transformers>=4.5.1
+pandas
+scikit-learn
+datasets
